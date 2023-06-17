@@ -10,14 +10,14 @@ Database contains two Tables- Users Table & Transaction Table
 
 Technologies Used:
 Front-End:
-HTML
-CSS
-JAVASCRIPT 
+1. HTML
+2. CSS
+3. JAVASCRIPT 
 
 Flow of the website
 Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
 References:
-Bootstrap material design
-Rudresh Modi's github repository
-UDEMY Web development 2.0 course
-Pinterest images
+1. Bootstrap material design
+2. Rudresh Modi's github repository
+3. UDEMY Web development 2.0 course
+4. Pinterest images
