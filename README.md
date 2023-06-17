@@ -16,3 +16,8 @@ JAVASCRIPT
 
 Flow of the website
 Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
+References:
+Bootstrap material design
+Rudresh Modi's github repository
+UDEMY Web development 2.0 course
+Pinterest images
